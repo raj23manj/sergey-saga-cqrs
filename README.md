@@ -9,6 +9,6 @@
    - Circuit Breaker
    - Access Token
    - Event Sourcing
-   - CQRS
+   - CQRS (command query responsibility segregation)
    - SAGA (to maintain data consistency across distributed micro service)
   
